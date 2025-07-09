@@ -12,3 +12,4 @@ C:\Users\katja\Desktop\MMDE\game_dev_learning\obj\Debug\net9.0\refint\Main.dll
 C:\Users\katja\Desktop\MMDE\game_dev_learning\obj\Debug\net9.0\Main.pdb
 C:\Users\katja\Desktop\MMDE\game_dev_learning\obj\Debug\net9.0\Main.genruntimeconfig.cache
 C:\Users\katja\Desktop\MMDE\game_dev_learning\obj\Debug\net9.0\ref\Main.dll
+C:\Users\katja\Desktop\MMDE\game_dev_learning\obj\Debug\net9.0\Main.sourcelink.json
